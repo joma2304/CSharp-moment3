@@ -1,0 +1,14 @@
+/Users/johanmagnusson/Desktop/C#/moment3/bin/Debug/net8.0/moment3
+/Users/johanmagnusson/Desktop/C#/moment3/bin/Debug/net8.0/moment3.deps.json
+/Users/johanmagnusson/Desktop/C#/moment3/bin/Debug/net8.0/moment3.runtimeconfig.json
+/Users/johanmagnusson/Desktop/C#/moment3/bin/Debug/net8.0/moment3.dll
+/Users/johanmagnusson/Desktop/C#/moment3/bin/Debug/net8.0/moment3.pdb
+/Users/johanmagnusson/Desktop/C#/moment3/obj/Debug/net8.0/moment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johanmagnusson/Desktop/C#/moment3/obj/Debug/net8.0/moment3.AssemblyInfoInputs.cache
+/Users/johanmagnusson/Desktop/C#/moment3/obj/Debug/net8.0/moment3.AssemblyInfo.cs
+/Users/johanmagnusson/Desktop/C#/moment3/obj/Debug/net8.0/moment3.csproj.CoreCompileInputs.cache
+/Users/johanmagnusson/Desktop/C#/moment3/obj/Debug/net8.0/moment3.dll
+/Users/johanmagnusson/Desktop/C#/moment3/obj/Debug/net8.0/refint/moment3.dll
+/Users/johanmagnusson/Desktop/C#/moment3/obj/Debug/net8.0/moment3.pdb
+/Users/johanmagnusson/Desktop/C#/moment3/obj/Debug/net8.0/moment3.genruntimeconfig.cache
+/Users/johanmagnusson/Desktop/C#/moment3/obj/Debug/net8.0/ref/moment3.dll
